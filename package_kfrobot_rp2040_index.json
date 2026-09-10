@@ -22,7 +22,8 @@
             {
               "name": "KFROBOT_RP2040"
             }
-          ]
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
