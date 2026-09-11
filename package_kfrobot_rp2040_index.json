@@ -9,6 +9,25 @@
         {
           "name": "KFROBOT RP2040 Boards",
           "architecture": "rp2040",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/frame007/KFROBOT_RP2040_Board_Manager"
+          },
+          "url": "https://github.com/frame007/KFROBOT_RP2040_Board_Manager/releases/download/v1.0.2/KFROBOT_RP2040-1.0.2.zip",
+          "archiveFileName": "KFROBOT_RP2040-1.0.2.zip",
+          "checksum": "SHA-256:1024c28d9a7bf3e16365b5d7b9be9ed0bd8db43fcde73abef22f9ca54390b4bf",
+          "size": "249786838",
+          "boards": [
+            {
+              "name": "KFROBOT_RP2040"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "KFROBOT RP2040 Boards",
+          "architecture": "rp2040",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {
